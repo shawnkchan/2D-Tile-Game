@@ -1,5 +1,7 @@
 # Build Your Own World Design Document
 
+This is a copy of the code used in one of my class' assignments
+
 ## Classes and Data Structures
 
 ### Binary Space Partitioning Class
